@@ -10,9 +10,10 @@
     >
 
     <pl.droidsonroids.gif.GifImageView
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@drawable/curtains"/>
+        android:id="@+id/curtains"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/curtains"/>
 
 
 </AbsoluteLayout>
